@@ -20,7 +20,6 @@ const SaeedAkbarzadeh = {
    funFact: "Bug's and Errors are my best friends" 
 };
 ```
-و.
 
 <h2>Languages and Tools</h2>
 
